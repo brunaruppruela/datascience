@@ -11,7 +11,7 @@ por Bruna Rupp
 </p>
 
 ## Conhecendo a Historia (ou negócio):
-### De acordo com a wikipedia, o titanic 
+<P><br />
 
-
-
+### Há 109 anos atras nesse mesmo mês que faço a analise do dataset, no dia 15 de abril a embarcação que havia sido construida para ser o maior e mais luxuoso navio do mundo afundava no Atlantico.  O Titanic possuia 269 metros de comprimento, 28 metros de largura e 53 metros de altura, operava com uma tripulação de 892 pessoas e poderia levar até 2435 passageiros (distribuidas pelas três classes disponíveis). Seu naufrágio foi causado por uma colisão com um iceberg. Acredita-se que alguns fatores como a negligencia da tripulação tenha contribuido para as 1502 mortes de seus 2224 passageiros. 
+</p>
