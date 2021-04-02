@@ -1,6 +1,6 @@
 # ***Datasets, construção de modelos de machine learning e publicações web para as maquinas preditivas.*** 
 
-### Sim! Terá análise de flor e saber quem afunda ou não em návio! Neste diretorio serão analisados vários datasets de fontes diferentes como Kaggle, Dados.gov.br, cursos que faço, FiveThirtyEight etc, com intuito de exercitar os conhecimento em ciencia de dados. Também tentarei aprimorar os datasets analisados utilizando aplicações gratuitas web com pyngrok e streamlit. 
+### Sim! Terá análise de flor e descoberta de quem afunda ou não em návio! Neste diretorio serão analisados vários datasets de fontes diferentes como Kaggle, Dados.gov.br, cursos que faço, FiveThirtyEight etc, com intuito de exercitar os conhecimento em ciencia de dados. Também tentarei aprimorar os datasets analisados utilizando aplicações gratuitas web com pyngrok e streamlit. 
 
 ## Frameworks, checklists e Fluxogramas:
 Para organizar um projeto de datascience e garantir o desenvolvimento de um projeto agil e
